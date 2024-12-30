@@ -13,7 +13,7 @@ This is the place to add a short introduction.
 - Examples:
   - [Item example](examples/item.json): Shows the basic usage of the extension in a STAC Item
   - [Collection example](examples/collection.json): Shows the basic usage of the extension in a STAC Collection
-- [JSON Schema](json-schema/schema.json)
+- [JSON Schema](json-schema/v1.0.0/schema.json)
 - [Changelog](./CHANGELOG.md)
 
 ## Fields
